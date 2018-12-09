@@ -1,0 +1,12 @@
+Welcome to the game of Risk!  This is
+a turn based game. Each turn a player
+is given troops to deploy on the board.
+After deployment the player can then
+attack neighbouring opponents and claim 
+more land to get more troops. After all
+attacks are done the player can move to 
+adjacent countries to strengthen their
+defences.
+ 
+ProTip: claiming a whole continent gives 
+the player bonus troops!
